@@ -7,7 +7,7 @@ category: posts
 **This post is just a set of ideas, it's not intended to be the final
 post**
 
-[]("/images/the-power-of-choice.png")
+[](/images/the-power-of-choice.png)
 
 > "Right now you are one choice away from a new beginning – one that leads
 > you toward becoming the fullest human being you can be." - Oprah Winfrey
