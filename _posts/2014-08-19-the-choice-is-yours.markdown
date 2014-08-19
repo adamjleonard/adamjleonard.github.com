@@ -9,8 +9,8 @@ post**
 
 []("/images/the-power-of-choice.png")
 
-"Right now you are one choice away from a new beginning – one that leads
-you toward becoming the fullest human being you can be." - Oprah Winfrey
+> "Right now you are one choice away from a new beginning – one that leads
+> you toward becoming the fullest human being you can be." - Oprah Winfrey
 
 A few years ago I entered a huge state of depression. I was fired for
 the first time ever from an amazing job, my girlfriend at the time broke
