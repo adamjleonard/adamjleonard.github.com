@@ -9,9 +9,6 @@ post**
 
 ![](/images/the-power-of-choice.png)
 
-> "Right now you are one choice away from a new beginning – one that leads
-> you toward becoming the fullest human being you can be." - Oprah Winfrey
-
 A few years ago I entered a huge state of depression. I was fired for
 the first time ever from an amazing job, my girlfriend at the time broke
 up with me days later, and I was very unsure how I was going to pay rent
@@ -26,6 +23,9 @@ enough. I would make the choice to turn my life around.
 I found a job in NY, borrowed some money to pay rent, and started
 focusing on myself opposed to having the need of someone else to fulfill
 my happiness.
+
+> "Right now you are one choice away from a new beginning – one that leads
+> you toward becoming the fullest human being you can be." - Oprah Winfrey
 
 You see, choice is the most powerful of tools that a person can have.
 Every thing that we are presented with in life is a choice. You choose
