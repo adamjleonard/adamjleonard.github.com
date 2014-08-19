@@ -4,6 +4,9 @@ title: The Choice is Yours - Rough Version
 category: posts
 ---
 
+**This post is just a set of ideas, it's not intended to be the final
+post**
+
 Choice is the most powerful of tools that a person can have. YOU choose
 to be offended by a strangers remarks, YOU choose to continue to flip
 burgers at a job you loathe, YOU choose the perspective you have on
