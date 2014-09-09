@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Decision Fatigue, ego-depletion and what it means for you.
+title: Rough Version - Decision Fatigue, ego-depletion and what it means for you.
 category: posts
 ---
 
 Decision Fatigue
 ================
+
+**This is a rough version**
 
 Imagine running as fast as you can, sweat dripping from your face, your muscles
 are tense and sore, and it’s becoming difficult to take that next step. We are
