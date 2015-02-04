@@ -1,11 +1,8 @@
 ---
 layout: post
-title: The Choice is Yours - Rough Version
+title: The Choice is Yours
 category: posts
 ---
-
-**This post is just a set of ideas, it's not intended to be the final
-post**
 
 ![](/images/the-power-of-choice.png)
 
